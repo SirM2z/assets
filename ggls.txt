@@ -1,0 +1,8 @@
+! Version: 20180702
+! Title: 规则
+! Author: z
+! Others: no
+!--以下是规则内容开始
+||e.wkjhd.com
+||m.wkjhd.com
+
