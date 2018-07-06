@@ -5,4 +5,7 @@
 !--以下是规则内容开始
 ||e.wkjhd.com
 ||m.wkjhd.com
+||m.vvocm.com
+||e.mv5te.cn
+||e.vvocm.com
 
